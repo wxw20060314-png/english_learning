@@ -1,0 +1,60 @@
+Today, I would like to talk about the impact of artificial intelligence on the computer industry
+AI is developing at an incredible speed. It can now write code, fix errors, and even help create entire games
+Some traditional jobs have already been affected by this technology. So, as AI becomes more powerful, will human programmers still be necessary?
+In my opinion, at least for now, AI cannot completely replace human developers.
+
+
+First, without technical knowledge, it is difficult to guide AI accurately
+For example, when designing an NPC's behavior, developers need to understand the differences between behavior trees and state machines.
+Otherwise, AI may choose an unsuitable architecture and generate code that is difficult to maintain or extend.
+For example, in an open-world game like Minecraft, AI cannot rely on predefined cover points like in traditional FPS games.
+ It must search for cover dynamically, which can be expensive. The challenge is balancing the cost of searching with the benefits of finding better cover.
+ 
+Second, not every problem in a game is a programming error.
+For example, in CrossFire, techniques such as jump-crouching and ghost jumping involve interactions between different game mechanics.
+Even if individual features work correctly, combining them may produce unexpected results.
+We need to determine whether these behaviors are bugs, intended mechanics, or techniques discovered by players 
+  
+Third, game development requires trade-offs
+Large games like Genshin Impact must balance graphics quality, performance, device compatibility, and development costs.
+Improving one aspect does not necessarily improve the entire game
+Adding more features without considering their side effects may make the system more complicated and less stable.
+
+
+Fourth, current AI still struggles with some complex architectural problems.
+Large projects often contain legacy code that has accumulated over many years.
+When the underlying design is too rigid, adding more patches may not solve the real problem.
+Sometimes, the system needs to be redesigned or even rewritten
+AI can help with this process, but it cannot yet reliably handle every complex restructuring task
+For example, despite the rapid development of AI, we have not seen a wave of truly revolutionary game ideas. 
+This suggests that AI is mainly a development accelerator, rather than an independent creative force. 
+It can help developers write code faster, but the original ideas and creative decisions still come from humans.
+
+
+Fifth, AI can still make mistakes that create unnecessary code and architectural risks、
+It may misunderstand an API, duplicate existing functionality, or introduce unnecessary abstractions.
+If developers cannot recognize these problems, the codebase may become increasingly complicated and expensive to maintain
+
+Of course, we should not assume that AI will always have these limitations.
+Perhaps, decades from now, it will write better code than humans, understand more complex systems, and automate most software development tasks.
+However, I believe that this does not mean every problem in software development will disappear.
+ 
+Because writing code is only a means, not the ultimate goal.
+Even if future AI can modify a game engine perfectly, it may still need to deal with competing objectives.
+Should we prioritize better graphics or smoother performance on more devices? 
+Should we keep adding features,or should we give some of them up to maintain stability and simplicity?
+AI may help us analyze the consequences of these choices. But we still need to define our goals and decide what results are actually worth achieving.
+ 
+Therefore, I believe that programmers in the age of AI should not focus only on writing more code.
+They should learn to understand problems, design systems, evaluate results, and take responsibility for their technical decisions.
+Perhaps, in the future, AI will be better at programming than we are.
+But what truly matters is not just how to create something, but why we want to create it and whether it is worth creating at all.
+Thank you for listening!
+
+
+
+
+
+
+
+
